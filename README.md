@@ -1,1 +1,1 @@
-# wba1-2016
+# Web-basierte Anwendungen wba1-2016
